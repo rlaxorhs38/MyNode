@@ -1,2 +1,2 @@
 visual studio code test
-var aa = "아싸 수정했다";
+수정을해봅시다
